@@ -1,5 +1,5 @@
 # Comandos
-:
+
 
     1. Descarga la imagen 'httpd' y comprueba que está en tu equipo.
     2. Crea un contenedor con el nombre 'asir_httpd'.
